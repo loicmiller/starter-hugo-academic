@@ -73,7 +73,7 @@ experience:
 
                 Supervisor: Professor Cristel Pelsser.
 
-  - title: Security study of the Internet of Things
+  - title: Study of security in the Internet of Things
     company: University of Strasbourg
     company_url: 'https://en.unistra.fr/'
     company_logo: uds

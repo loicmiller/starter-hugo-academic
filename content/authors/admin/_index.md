@@ -20,7 +20,7 @@ organizations:
     url: https://cybercni.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include security, multi-agent systems, blockchain, and Internet measurement.
+bio: My research interests include cybersecurity, multi-agent systems, blockchain, and Internet measurement.
 
 # Interests to show in About widget
 interests:
@@ -62,6 +62,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/loicmiller
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Loic-Miller
   #- icon: linkedin
   #  icon_pack: fab
   #  link: https://www.linkedin.com/
